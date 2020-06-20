@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UYHC</title>
+    <link>https://uyhc.org/</link>
+    <description>Recent content on UYHC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://uyhc.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About UYHC</title>
+      <link>https://uyhc.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uyhc.org/about/</guid>
+      <description>The University of York Hockey club is one of the largest and most successful clubs at the University of York. We have three Mens teams and three Ladies teams, all playing in competitive Northern BUCS leagues.
+As well as performance teams, we have a mixed development squad and most importantly, an incredible social scene! Our welcoming and friendly atmosphere will mean that once you join UYHC, you will never want to leave.</description>
+    </item>
+    
+  </channel>
+</rss>
